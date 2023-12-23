@@ -1,0 +1,18 @@
+{
+  "name": "helpmeoutapi",
+  "version": "1.0.0",
+  "description": "Backend for HelpMeOut- A Chrome Extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@deepgram/sdk": "^3.0.1",
+    "amqplib": "^0.10.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
